@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Filefish",
+    "image": "./assets/images/american_filefish.png",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "name": "Anemones",
+    "image": "./assets/images/anemones.png",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "name": "Squid",
+    "image": "./assets/images/squid.png",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "name": "French Angel",
+    "image": "./assets/images/french_angel.png",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "name": "Eel",
+    "image": "./assets/images/eel.png",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "name": "Doug Funnie",
+    "image": "./assets/images/octopus2.png",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "name": "Porcupinefish",
+    "image": "./assets/images/porcupinefish.png",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "name": "The Deep",
+    "image": "./assets/images/the_deep.png",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "name": "Wrasses",
+    "image": "./assets/images/wrasses.png",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "name": "Urchins",
+    "image": "./assets/images/urchins.png",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "name": "Parrotfish",
+    "image": "./assets/images/smile.png",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "name": "Lionfish",
+    "image": "./assets/images/lionfish.png",
+    "clicked": false
+  }
+]

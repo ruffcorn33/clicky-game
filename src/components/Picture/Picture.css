@@ -1,0 +1,23 @@
+#images-wrapper {
+  background: #fff;
+  border-radius: 2px;
+  height: 300px;
+  margin: 1rem;
+  position: relative;
+  width: 300px;
+  box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+  text-align: left;
+}
+
+#images-wrapper:hover {
+  -webkit-transform: scale(1.05);
+  -ms-transform: scale(1.05);
+  transform: scale(1.05);
+  box-shadow: 0 4px 4px 2px #999, 0 4px 4px 2px #999;
+}
+
+.img-container > img {
+  width: 260px;
+  height: 260px;
+  margin: 18px;
+}
