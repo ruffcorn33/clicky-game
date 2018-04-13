@@ -7,8 +7,8 @@
   },
   {
     "id": 2,
-    "name": "Anemones",
-    "image": "./assets/images/anemones.png",
+    "name": "Sponges",
+    "image": "./assets/images/sponges.png",
     "clicked": false
   },
   {
@@ -31,26 +31,26 @@
   },
   {
     "id": 6,
-    "name": "Doug Funnie",
-    "image": "./assets/images/octopus2.png",
+    "name": "Green Sea Turtle",
+    "image": "./assets/images/greenSeaTurtle.png",
     "clicked": false
   },
   {
     "id": 7,
-    "name": "Porcupinefish",
-    "image": "./assets/images/porcupinefish.png",
+    "name": "Dascyllus",
+    "image": "./assets/images/dascyllus.png",
     "clicked": false
   },
   {
     "id": 8,
-    "name": "The Deep",
-    "image": "./assets/images/the_deep.png",
+    "name": "Ray",
+    "image": "./assets/images/ray.png",
     "clicked": false
   },
   {
     "id": 9,
-    "name": "Wrasses",
-    "image": "./assets/images/wrasses.png",
+    "name": "Peacock Flounder",
+    "image": "./assets/images/flounder.png",
     "clicked": false
   },
   {
@@ -61,8 +61,8 @@
   },
   {
     "id": 11,
-    "name": "Parrotfish",
-    "image": "./assets/images/smile.png",
+    "name": "Blue Black Urchin",
+    "image": "./assets/images/blueBlackUrchin.png",
     "clicked": false
   },
   {
