@@ -20,3 +20,4 @@ Additionally, Eslint was used in development to help format the React code.
 
 - Gameplay is currently not repeatable without refreshing the screen. Code for reloading the images array from the .json file is not working.
 - High Score is one behind the current score.
+- Need to improve styling.
